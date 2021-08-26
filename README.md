@@ -17,4 +17,5 @@ Futuramente serão adicionadas novas Features.
 
 Você pode doar e ajudar o projeto e a mim a crescer. 
 ![Shopping Bags on Apple iOS 14.6](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/shopping-bags_1f6cd-fe0f.png)
-Chave PIX: ca8c8265-7be5-488b-9633-d0bd944323d2
+
+-Chave PIX: ca8c8265-7be5-488b-9633-d0bd944323d2
