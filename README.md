@@ -6,7 +6,8 @@ Há um atraso aproximado de 3 minutos para a obtenção da informação e o lan�
 ## Agora ela permite
 Você deve baixar e adicionar ao Google Drive e clicar em Arquivo> Salvar como Planilhas Google e com isso terá acesso a ela funcionando em tempo real. 
 
-Futuramente serão adicionadas novas Features.
+
+## Recursos Planejados Futuros
 
  - Carteira Virtual 
  - Lançamento de Fluxo de Caixa 
