@@ -3,8 +3,8 @@ A planilha foi criada com o objetivo de facilitar o acesso e acompanhamento em t
 
 Há um atraso aproximado de 3 minutos para a obtenção da informação e o lançamento no painel. 
 
-## Agora ela permite
-Você deve baixar e adicionar ao Google Drive e clicar em Arquivo> Salvar como Planilhas Google e com isso terá acesso a ela funcionando em tempo real. 
+## Como usar
+Você deve baixar o arquivo Planilha - Ações e adicionar ao Google Drive e clicar em Arquivo> Salvar como Planilhas Google e com isso terá acesso a ela funcionando em tempo real. 
 
 
 ## Recursos Planejados Futuros
