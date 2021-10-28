@@ -1,6 +1,14 @@
 # **Planilha de ações**
 A planilha foi criada com o objetivo de facilitar o acesso e acompanhamento em tempo real com as informações obtidas através do Google. 
 
+<script src="https://cdn.lordicon.com/libs/mssddfmo/lord-icon-2.1.0.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/lupuorrc.json"
+    trigger="loop"
+    colors="primary:#121331,secondary:#08a88a"
+    style="width:250px;height:250px">
+</lord-icon>
+
 Há um atraso aproximado de 3 minutos para a obtenção da informação e o lançamento no painel. 
 
 ## Como usar
