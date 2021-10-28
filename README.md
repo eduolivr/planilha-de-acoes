@@ -1,7 +1,7 @@
 # **Planilha de ações**
 A planilha foi criada com o objetivo de facilitar o acesso e acompanhamento em tempo real com as informações obtidas através do Google. 
 
-<script src="https://cdn.lordicon.com/libs/mssddfmo/lord-icon-2.1.0.js"></script>
+<img> src="https://cdn.lordicon.com/libs/mssddfmo/lord-icon-2.1.0.js <img> 
 <lord-icon
     src="https://cdn.lordicon.com/lupuorrc.json"
     trigger="loop"
